@@ -1,0 +1,3 @@
+Symlinking /home/thomas/catkin_ws/devel/lib/pkgconfig/turtlebot3_move.pc
+Symlinking /home/thomas/catkin_ws/devel/share/turtlebot3_move/cmake/turtlebot3_moveConfig-version.cmake
+Symlinking /home/thomas/catkin_ws/devel/share/turtlebot3_move/cmake/turtlebot3_moveConfig.cmake

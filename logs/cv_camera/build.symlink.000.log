@@ -1,0 +1,6 @@
+Symlinking /home/thomas/catkin_ws/devel/lib/libcv_camera.so
+Symlinking /home/thomas/catkin_ws/devel/lib/libcv_camera_nodelet.so
+Symlinking /home/thomas/catkin_ws/devel/lib/pkgconfig/cv_camera.pc
+Symlinking /home/thomas/catkin_ws/devel/lib/cv_camera/cv_camera_node
+Symlinking /home/thomas/catkin_ws/devel/share/cv_camera/cmake/cv_cameraConfig-version.cmake
+Symlinking /home/thomas/catkin_ws/devel/share/cv_camera/cmake/cv_cameraConfig.cmake

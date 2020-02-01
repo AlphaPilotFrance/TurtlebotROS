@@ -1,0 +1,37 @@
+Not searching for unused variables given on the command line.
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/thomas/catkin_ws/devel/.private/libuvc_camera
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/thomas/catkin_ws/devel;/opt/ros/kinetic
+[36m--[0m This workspace overlays: /home/thomas/catkin_ws/devel;/opt/ros/kinetic
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.12", minimum required is "2")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python2
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/thomas/catkin_ws/build/libuvc_camera/test_results
+[36m--[0m Found gmock sources under '/usr/src/gmock': gmock will be built
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found version "2.7.12")
+[36m--[0m Found gtest sources under '/usr/src/gmock': gtests will be built
+[36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
+[36m--[0m catkin 0.7.18
+[36m--[0m BUILD_SHARED_LIBS is on
+[31m[1mCMake Error[0m at /home/thomas/catkin_ws/src/libuvc_ros/libuvc_camera/CMakeLists.txt:9 (find_package):
+  By not providing "Findlibuvc.cmake" in CMAKE_MODULE_PATH this project has
+  asked CMake to find a package configuration file provided by "libuvc", but
+  CMake did not find one.
+
+  Could not find a package configuration file provided by "libuvc" with any
+  of the following names:
+
+    libuvcConfig.cmake
+    libuvc-config.cmake
+
+  Add the installation prefix of "libuvc" to CMAKE_PREFIX_PATH or set
+  "libuvc_DIR" to a directory containing one of the above files.  If "libuvc"
+  provides a separate development package or SDK, be sure it has been
+  installed.
+
+
+[36m--[0m Configuring incomplete, errors occurred!
+See also "/home/thomas/catkin_ws/build/libuvc_camera/CMakeFiles/CMakeOutput.log".
+See also "/home/thomas/catkin_ws/build/libuvc_camera/CMakeFiles/CMakeError.log".

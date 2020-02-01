@@ -1,0 +1,8 @@
+prefix=/home/thomas/catkin_ws/devel_isolated/turtlebot3_move
+
+Name: turtlebot3_move
+Description: Description of turtlebot3_move
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/thomas/catkin_ws/devel_isolated/turtlebot3_move/lib 
+Requires: 
