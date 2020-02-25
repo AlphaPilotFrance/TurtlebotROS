@@ -2,11 +2,6 @@ import rospy
 
 from nav_msgs.msg import Odometry
 
-#Attempt!
-#import System
-#import RosSharp.RosBridgeClient
-#import std_msgs = RosSharp.RosBridgeClient.Messages.Standard
-
 from geometry_msgs.msg import PoseStamped
 from tf.transformations import euler_from_quaternion
 from geometry_msgs.msg import Point, Twist
